@@ -28,6 +28,8 @@ You should see something like this after opening the folder in Visual Studio Cod
 
     ![open in browser](images/openinbrowser.png)
 
+## ****More information provided by instructor here*** 
+
 ## BOOTSTRAP
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. Let’s start with a basic template then build off it with components and code snippets to customize our own website.
 
@@ -45,16 +47,13 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
 |  [ScrollSpy](https://v4-alpha.getbootstrap.com/components/scrollspy/) |  JavaScript | Enables functionality for the Navbar  |
 
 ## CSS
-1.	Create a new VS Code file inside PersonalWebsite folder and name it main.css. 
-2.	First, we need to add this line of code into your index.html document to reference our CSS file.
-    ```html
-    <head> 
-    <title> Title goes here</title> 
-    <link href="main.css" rel="stylesheet" type="text/css">
-    </head>
-    ```
+1.	In Visual Studio Code, open the file `main.css`. 
+	This is being referenced in the `index.html` file by the line: 
 
-3.	Add CSS code to main.css to assign style elements to tags or containers in your index.html file. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
+    `<link href="main.css" rel="stylesheet" type="text/css">`
+
+
+3.	Add CSS code to `main.css` to assign style elements to tags or containers in your index.html file. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
     ```css
     body {     
         position: relative;
