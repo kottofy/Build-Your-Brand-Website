@@ -33,7 +33,7 @@ You should see something like this after opening the folder in Visual Studio Cod
 ## BOOTSTRAP
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. Let’s start with a basic template then build off it with components and code snippets to customize our own website.
 
-1. Copy and paste the code below under where it says `<!-- Navbar code goes here -->` to add a Navbar/menu to the `index.html` page
+1. Copy and paste the code below under where it says `<!-- Navbar code goes here -->` to add a Navbar/menu to the `index.html`, `portfolio.html`, and `resume.html` pages
     ```html
     <!-- Navbar code goes here -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -59,11 +59,10 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
       
 2. Open a new tab in your browser and navigate to the [Bootstrap examples website](https://v4-alpha.getbootstrap.com/examples/).
 
-3.	Try adding some of the following elements to your website from the.
+3.	Try adding some of the following elements to your website from the table below.
 
 | Feature  |  Type |  Function |
 |---|---|---|
-| [Navbar](https://v4-alpha.getbootstrap.com/examples/navbars/)  |  Component | Navigation header  |
 |  [Jumbotron](https://v4-alpha.getbootstrap.com/examples/jumbotron/) | Component  |  Showcase key content |
 |  [Typography](https://v4-alpha.getbootstrap.com/content/typography/) | CSS  | Different ways of displaying text  |
 |[Grid System](https://v4-alpha.getbootstrap.com/layout/grid/) |  CSS |  Utilize 12-column system of Bootstrap to divide up your content |
@@ -77,7 +76,7 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
     `<link href="main.css" rel="stylesheet" type="text/css">`
 
 
-3.	Add CSS code to `main.css` to assign style elements to tags or containers in your resume.html file. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
+3.	Add CSS code to `main.css` to assign style elements to tags or containers in your html files. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
     ```css
     body {     
         position: relative;
