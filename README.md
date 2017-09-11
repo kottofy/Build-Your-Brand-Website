@@ -21,10 +21,10 @@ Please install or check that these programs are running on your computer (Window
 You should see something like this after opening the folder in Visual Studio Code.
     ![vs code](images/vscode.png)
 
-4. Right-click on the `index.html` file and select "Reveal in Explorer". 
+4. Right-click on the `resume.html` file and select "Reveal in Explorer". 
 
     ![reveal in explorer](images/revealinexplorer.png)
-5. Double-click or open the `index.html` file in a browser to view the current site.
+5. Double-click or open the `resume.html` file in a browser to view the current site.
 
     ![open in browser](images/openinbrowser.png)
 
@@ -48,12 +48,12 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
 
 ## CSS
 1.	In Visual Studio Code, open the file `main.css`. 
-	This is being referenced in the `index.html` file by the line: 
+	This is being referenced in the `resume.html` file by the line: 
 
     `<link href="main.css" rel="stylesheet" type="text/css">`
 
 
-3.	Add CSS code to `main.css` to assign style elements to tags or containers in your index.html file. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
+3.	Add CSS code to `main.css` to assign style elements to tags or containers in your resume.html file. Don’t forget to use a class selector (.containername) to apply style to classes. Example (.jumbotron) below:
     ```css
     body {     
         position: relative;
