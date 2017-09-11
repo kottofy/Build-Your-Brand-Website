@@ -33,9 +33,33 @@ You should see something like this after opening the folder in Visual Studio Cod
 ## BOOTSTRAP
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. Let’s start with a basic template then build off it with components and code snippets to customize our own website.
 
-1. Open a new tab in your browser and navigate to the [Bootstrap examples website](https://v4-alpha.getbootstrap.com/examples/).
+1. Copy and paste the code below under where it says `<!-- Navbar code goes here -->` to add a Navbar/menu to the `index.html` page
+    ```html
+    <!-- Navbar code goes here -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="resume.html">Resume</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="portfolio.html">Portfolio</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      ```
 
-2.	Try adding some of the following elements to your website from the.
+      
+2. Open a new tab in your browser and navigate to the [Bootstrap examples website](https://v4-alpha.getbootstrap.com/examples/).
+
+3.	Try adding some of the following elements to your website from the.
 
 | Feature  |  Type |  Function |
 |---|---|---|
