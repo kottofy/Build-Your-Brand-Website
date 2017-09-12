@@ -135,7 +135,12 @@ You can now use the Visual Studio Source Control interface rather than the Termi
 
 ## AZURE
 3.	Login to Azure, then create new Web App.
-4.	Point this to your GitHub master branch and voila, you’re in the cloud!
+
+    ![new web app](https://docs.microsoft.com/en-us/bot-framework/media/azure-create-webapp.png)
+
+4.	Point this to your GitHub repo and voila, you’re in the cloud!
+
+    ![point to github repo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjjwgueI9ryvcWlDim5kwewGLWFcC3-w05C2s6Y2cXqelCShJ)
 
 
 
