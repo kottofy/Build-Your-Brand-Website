@@ -101,13 +101,40 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
 
 **For help with CSS syntax rules, check out https://www.w3schools.com/css/css_syntax.asp 
 
-## AZURE
-1.	To host your website in the cloud, you will need to make two new accounts:
+## PUBLISH
+To host your website in the cloud, you will need to make two new accounts:
 - GitHub -> Sign up at https://github.com 
 - Azure -> If using an Azure Pass, please visit [http://microsoftazurepass.com](http://microsoftazurepass.com). Otherwise, sign up at https://microsoft.azure.com for a Free Trial.
   - Azure requires a Microsoft or work/school email account (@edu, @outlook, @hotmail, etc). If you don’t have one, create one at https://signup.live.com
-2.	Once you have these accounts, and your website is ready for public viewing, upload your code to a new repository in GitHub.
-3.	Sign up for the free trial in Azure, then create new Web App.
+
+## GITHUB
+
+1.	Navigate to your [GitHub](http://github.com) page and create new repository with a name of your choice in GitHub. Note the link that is associated with your repo. 
+
+    ![new repo](images/new-repo.png)
+    ![create repo](images/create-repo.png)
+    ![github link](images/github-link.png)
+
+
+2. Jump to VS Code and open the Terminal by opening the View menu and selecting `Integrated Terminal`.
+
+    ![open terminal](images/open-terminal.png)
+
+3. Copy, paste, and run the following code lines to commit all files to your repo and upload them. Note: you can delete the template image folder and the `README.md` file as you won't need those for your website.
+    1. `git init`
+    2. `git add *`
+    3. `git commit -m "initial"`
+    4. Update to your link first! `git remote add origin https://github.com/kottofy/testtesttest.git`
+    5. `git push -u origin master`
+
+    ![terminal](images/terminal.png)
+
+You can now use the Visual Studio Source Control interface rather than the Terminal!
+    ![vs code source control](images/vscode-source-control.png)
+
+
+## AZURE
+3.	Login to Azure, then create new Web App.
 4.	Point this to your GitHub master branch and voila, you’re in the cloud!
 
 
