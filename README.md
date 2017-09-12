@@ -1,5 +1,11 @@
 # Building Your Brand 
 
+- PowerPoint [http://aka.ms/buildyourbrandwebsiteppt
+](http://aka.ms/buildyourbrandwebsiteppt)
+- Demo of starter template: [http://buildyourbrandwebsite.azurewebsites.net](http://buildyourbrandwebsite.azurewebsites.net)
+- Demo of finished page: [http://buildyourbrandwebsitefinished.azurewebsites.net](http://buildyourbrandwebsitefinished.azurewebsites.net)
+
+
 ## INSTALL
 Please install or check that these programs are running on your computer (Windows, Linux, Mac).
 - [Visual Studio Code](https://code.visualstudio.com/) 
