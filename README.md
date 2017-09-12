@@ -7,6 +7,12 @@ Please install or check that these programs are running on your computer (Window
     - Optionally, you can install [GitHub Desktop](https://desktop.github.com/) which is a nice user interface for GitHub.
     - To check if Git is running on your computer, open Terminal/Powershell and run the command `git --version`.
 
+## PUBLISH
+To host your website in the cloud, you will need to make two new accounts:
+- GitHub -> Sign up at https://github.com 
+- Azure -> If using an Azure Pass, please visit [http://microsoftazurepass.com](http://microsoftazurepass.com). Otherwise, sign up at https://microsoft.azure.com for a Free Trial.
+  - Azure requires a Microsoft or work/school email account (@edu, @outlook, @hotmail, etc). If you don’t have one, create one at https://signup.live.com
+
 ## SETUP
 1. Download as a ZIP or clone this repository onto your computer. 
     
@@ -27,8 +33,6 @@ You should see something like this after opening the folder in Visual Studio Cod
 5. Double-click or open the `resume.html` file in a browser to view the current site.
 
     ![open in browser](images/openinbrowser.png)
-
-## ****More information provided by instructor here*** 
 
 ## BOOTSTRAP
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. Let’s start with a basic template then build off it with components and code snippets to customize our own website.
@@ -100,12 +104,6 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
     ```
 
 **For help with CSS syntax rules, check out https://www.w3schools.com/css/css_syntax.asp 
-
-## PUBLISH
-To host your website in the cloud, you will need to make two new accounts:
-- GitHub -> Sign up at https://github.com 
-- Azure -> If using an Azure Pass, please visit [http://microsoftazurepass.com](http://microsoftazurepass.com). Otherwise, sign up at https://microsoft.azure.com for a Free Trial.
-  - Azure requires a Microsoft or work/school email account (@edu, @outlook, @hotmail, etc). If you don’t have one, create one at https://signup.live.com
 
 ## GITHUB
 
