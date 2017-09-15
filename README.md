@@ -15,9 +15,15 @@ Please install or check that these programs are running on your computer (Window
 
 ## PUBLISH
 To host your website in the cloud, you will need to make two new accounts:
-- GitHub -> Sign up at https://github.com 
-- Azure -> If using an Azure Pass, please visit [http://microsoftazurepass.com](http://microsoftazurepass.com). Otherwise, sign up at https://microsoft.azure.com for a Free Trial.
-  - Azure requires a Microsoft or work/school email account (@edu, @outlook, @hotmail, etc). If you don’t have one, create one at https://signup.live.com
+- GitHub 
+  - Sign up at https://github.com 
+- Microsoft Account
+  - Azure requires a Microsoft or work/school email account (@edu, @outlook, @hotmail, etc). If you don’t have one, create one at https://signup.live.com or trying logging in a http://login.live.com
+- Azure options:
+  - (Option 1) If you have a .edu account, you can activate Azure for free at http://imagine.microsoft.com
+  - (Option 2) If using an Azure Pass provided by Microsoft, please visit [http://microsoftazurepass.com](http://microsoftazurepass.com)
+  - (Option 3) Otherwise, sign up at https://microsoft.azure.com for a Free Trial.
+
 
 ## SETUP
 1. Download as a ZIP or clone this repository onto your computer. 
